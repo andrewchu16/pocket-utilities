@@ -1,0 +1,22 @@
+# Ignore all
+*
+
+# Unignore all with extensions
+!*.*
+
+# Unignore all dirs
+!*/
+
+# gcc compiled binaries
+*.out
+
+# MSVC compiled binaries
+*.exe
+*.obj
+
+# mac compiled binaries
+*.app
+
+# vscode dir
+.vscode/
+
