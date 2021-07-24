@@ -5,9 +5,11 @@
 !*.*
 !.*
 
-
 # Unignore all dirs
 !*/
+
+# Unignore Makefile
+!Makefile
 
 # gcc compiled binaries
 *.out
